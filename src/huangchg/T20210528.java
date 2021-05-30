@@ -6,5 +6,4 @@ public class T20210528 {
 		// TODO 自动生成的方法存根
 		System.out.println("hello world!");
 	}
-
 }
